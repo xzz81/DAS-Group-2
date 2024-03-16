@@ -15,4 +15,5 @@ $$\rho_t = \gamma_t/\gamma_o$$
 
 MA process is always stationary  
 Use characteristic equations to solve Invertibility  
+Use acf to determine the order
 
