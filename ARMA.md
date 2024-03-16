@@ -11,3 +11,8 @@ $$\gamma(\tau) = \text{cov}(X_t, X_{t+\tau}) =
 0 & \text{for } |\tau| > 2.
 \end{cases}$$
 
+$$\rho_t = \gamma_t/\gamma_o$$
+
+MA process is always stationary  
+Use characteristic equations to solve Invertibility  
+
