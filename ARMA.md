@@ -1,5 +1,5 @@
-MA process  
-To MA(2)  
+# MA process  
+## To MA(2)  
 calculate ACF  
 
 
@@ -14,7 +14,11 @@ $$\gamma(\tau) = \text{cov}(X_t, X_{t+\tau}) =
 $$\rho_t = \gamma_t/\gamma_o$$
 
 MA process is always stationary  
+
 Use characteristic equations to solve Invertibility  
+
 Use acf to determine the order
+
 characteristic polynomial
-12345
+
+test
